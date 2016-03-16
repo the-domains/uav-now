@@ -2,12 +2,13 @@ name: UAV-Now
 favicon: null
 layout_spectrum: 0.90059
 typography_spectrum: 0.48164
+title: Aerial Photography Speacialists
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75223907-1
   facebook: null
   twitter: null
 opengraph:
