@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "We use the 3D Robotics Solo Drone as our main aerial platform. \_It is lightweight, versatile and the 'smartest' drone on the market. \_"
-datePublished: '2016-03-17T18:59:59.356Z'
-dateModified: '2016-03-17T18:59:47.208Z'
-title: Unmanned Aerial Vehicle (UAV)
+datePublished: '2016-03-17T20:01:46.106Z'
+dateModified: '2016-03-17T19:43:11.639Z'
+title: Equipment
 author: []
+sourcePath: _posts/2016-03-17-unmanned-aerial-vehicle-uav.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-unmanned-aerial-vehicle-uav.md
-published: true
 url: unmanned-aerial-vehicle-uav/index.html
-_type: Article
+_type: WebPage
 
 ---
 We use the 3D Robotics Solo Drone as our main aerial platform.  It is lightweight, versatile and the 'smartest' drone on the market.  
