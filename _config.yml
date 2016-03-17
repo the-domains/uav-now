@@ -24,6 +24,6 @@ color:
     - '#afafaf'
   brandStrength: 0.8125
   lightness: 0.12224204209633172
-  saturation: 0.9965831185691059
-  rhythmicContrast: 0.40764618990942836
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
