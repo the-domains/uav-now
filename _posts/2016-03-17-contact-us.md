@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Email:\_info@uav-now.co.uk"
-datePublished: '2016-03-17T22:49:21.288Z'
-dateModified: '2016-03-17T22:47:53.423Z'
+datePublished: '2016-03-17T22:51:41.857Z'
+dateModified: '2016-03-17T22:50:36.739Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-03-17-contact-us.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-us/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 Email: **info@uav-now.co.uk**
