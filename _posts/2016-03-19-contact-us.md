@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Email:\_info@uav-now.co.uk"
-datePublished: '2016-03-19T15:30:02.088Z'
-dateModified: '2016-03-19T15:29:48.985Z'
+datePublished: '2016-03-19T16:07:32.359Z'
+dateModified: '2016-03-19T16:07:26.261Z'
 title: Contact Us
 author: []
-sourcePath: _posts/2016-03-19-contact-us.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-03-19-contact-us.md
+published: true
 url: contact-us/index.html
 _type: Article
 
@@ -35,7 +35,6 @@ Follow us on our Social Media sites:
 **Facebook: **[https://www.facebook.com/Uavnow/][1]
 
 **Instagram: **[https://www.instagram.com/uavnow/][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b76e07-f657-49cf-93ee-07ae46ce6d70.jpg)
 
 [0]: https://twitter.com/UAVnow
 [1]: https://www.facebook.com/Uavnow/
