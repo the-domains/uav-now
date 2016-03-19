@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Yes. \_We are approved and have a Permission For Aerial Work (PFAW) from the Civil Aviation Authority (CAA), who are the governing body for the UK. \_We are also fully insured with £5m public liability cover. \_Our pilots are experienced operators and safety always comes first."
-datePublished: '2016-03-19T09:54:36.336Z'
-dateModified: '2016-03-19T09:54:23.758Z'
+datePublished: '2016-03-19T09:54:49.573Z'
+dateModified: '2016-03-19T09:54:45.841Z'
 title: FAQ
 author: []
 sourcePath: _posts/2016-03-17-are-you-fully-licensed-and-insured.md
