@@ -1,6 +1,6 @@
 name: UAV-Now
 favicon: null
-layout_spectrum: 0.84116
+layout_spectrum: 0.1865
 typography_spectrum: 0.48164
 title: UAV-Now    Aerial Photography Specialists
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.125
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
