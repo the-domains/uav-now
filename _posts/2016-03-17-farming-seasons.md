@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/153701716'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Seasonal view of the orchard we regularly fly over for practice. Snow, fog and a summer evening.'
+datePublished: '2016-03-19T09:54:57.587Z'
+dateModified: '2016-03-19T09:54:57.267Z'
 author:
   - name: UAV-Now
     url: 'http://vimeo.com/uavnow'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'Seasonal view of the orchard we regularly fly over for practice. Snow, fog and a summer evening.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/153701716'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/153701716'
 title: Farming Seasons
-datePublished: '2016-03-17T17:49:09.737Z'
-dateModified: '2016-03-17T17:47:42.222Z'
 sourcePath: _posts/2016-03-17-farming-seasons.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
