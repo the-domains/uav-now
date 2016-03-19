@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Telephone: 07793 201546'
-datePublished: '2016-03-19T09:43:21.531Z'
-dateModified: '2016-03-19T09:42:43.378Z'
+description: 'Email: info@uav-now.co.uk'
+datePublished: '2016-03-19T09:48:40.974Z'
+dateModified: '2016-03-19T09:47:37.802Z'
 title: Get in Touch
 author: []
 sourcePath: _posts/2016-03-17-contact-us.md
@@ -22,8 +22,21 @@ url: contact-us/index.html
 _type: WebPage
 
 ---
-Email: info@uav-now.co.uk
+**Email:** info@uav-now.co.uk
 
-Telephone: 07793 201546
+**Telephone:** 07793 201546
 
-Based in Tonbridge, Kent we cover the whole of Kent and Sussex.  Please contact us for more information.
+Based in Tonbridge, Kent we cover the whole of **Kent and Sussex**.  Please contact us for more information.
+
+Follow us on our Social Media sites:
+
+**Twitter:**[https://twitter.com/UAVnow][0]
+
+**Facebook:**[https://www.facebook.com/Uavnow/][1]
+
+**Instagram:**[https://www.instagram.com/uavnow/][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f94cef3a-c571-4cdd-a7fe-1d44c9f6e74f.jpg)
+
+[0]: https://twitter.com/UAVnow
+[1]: https://www.facebook.com/Uavnow/
+[2]: https://www.instagram.com/uavnow/
