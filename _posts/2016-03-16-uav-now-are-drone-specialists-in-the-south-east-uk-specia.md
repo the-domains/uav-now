@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "UAV-Now are drone specialists in the South East, UK. \_Specialising in Aerial Photography, Cinematography , Surveys, Mapping, Surveillance.\_We are fully certified with the Civil Aviation Authority (CAA) and have a current Permission for Aerial Work (PFAW) issued. \_We are also Fully Insured and pride ourselves on planning and safety."
-datePublished: '2016-03-19T16:32:41.344Z'
-dateModified: '2016-03-19T16:32:40.481Z'
+datePublished: '2016-03-20T16:06:33.805Z'
+dateModified: '2016-03-20T16:06:32.959Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-uav-now-are-drone-specialists-in-the-south-east-uk-specia.md
