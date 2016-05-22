@@ -16,8 +16,8 @@ keywords:
   - southborough
   - autoplay
 description: 'Southborough & High Brooms Amateur Archaeology Society commissioned David Staveley to carry out a geophysical survey of a potential new site at Honnington Farm. Nick from UAV-Now was on hand to capture the magic of magnetometry. (c) UAV-Now & SHAAS http://www.uav-now.co.uk/ http://www.southborougharchaeology.org/'
-datePublished: '2016-05-22T18:23:23.565Z'
-dateModified: '2016-05-22T18:23:17.543Z'
+datePublished: '2016-05-22T18:59:34.389Z'
+dateModified: '2016-05-22T18:23:36.959Z'
 author:
   - name: Southborough Archaeology
     url: 'https://www.youtube.com/channel/UC9uYg4eLonYo5tG6Lslluhg'
@@ -61,6 +61,7 @@ app_links:
     namespace: google
     type: ios
 title: Geophysical survey of Honnington Farm - SHAAS
+sourcePath: _posts/2016-05-22-geophysical-survey-of-honnington-farm-shaas.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-22-geophysical-survey-of-honnington-farm-shaas.md
 _type: VideoObject
 _context: 'http://schema.org'
 
