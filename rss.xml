@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 10:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 10:20:06 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -28,13 +28,6 @@
             <pubDate>Tue, 05 Apr 2016 19:18:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5e8198-e6d6-483e-a630-1df9485db51b.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/818dde8d-b4f4-48d9-89a8-0a6cbf97e6c9/index.html</link>
-            <guid isPermaLink="false">818dde8d-b4f4-48d9-89a8-0a6cbf97e6c9</guid>
-            <pubDate>Mon, 21 Mar 2016 07:23:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[3D Robotics]]></title>
             <description><![CDATA[<article><h1>3D Robotics</h1><p>It allows us to pre-program flight paths which can perform smooth cable-cam shots or can be used for mapping and surveys.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5711e0c1-ac60-4bb7-b3e5-1c14cbe5ca13.jpg"></article>]]></description>
             <link>http://www.uav-now.co.uk/equipment/index.html</link>
@@ -54,13 +47,6 @@
             <link>https://vimeo.com/153701716</link>
             <guid isPermaLink="false">0743f6a0-d8fd-4de6-ba2b-d89d6e0c1ff3</guid>
             <pubDate>Sat, 19 Mar 2016 09:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b789123-289f-4091-afc7-7d5bdebad5c0.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/524b88ca-2951-42ff-b8b8-9685a610e723/index.html</link>
-            <guid isPermaLink="false">524b88ca-2951-42ff-b8b8-9685a610e723</guid>
-            <pubDate>Thu, 17 Mar 2016 08:16:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
