@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=Ng9JhDYzCLQ'
 inLanguage: null
 keywords: []
 description: 'This is a video we produced for Southborough & High Brooms Amateur Archaeology Society (SHAAS). The purpose of the video was to to promote the society to entice new members '
-datePublished: '2016-05-29T21:10:14.086Z'
-dateModified: '2016-05-29T21:10:13.692Z'
+datePublished: '2016-05-29T21:29:34.786Z'
+dateModified: '2016-05-29T21:10:37.212Z'
 author:
   - name: Southborough Archaeology
     url: 'https://www.youtube.com/channel/UC9uYg4eLonYo5tG6Lslluhg'
