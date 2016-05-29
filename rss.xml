@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 22:18:05 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Sun, 29 May 2016 21:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAQ]]></title>
+            <description><![CDATA[<p>Yes. We are approved and have a Permission For Aerial Work (PFAW) from the Civil Aviation Authority (CAA), who are the governing body for the UK. We are also fully insured with £5m public liability cover. Our pilots are experienced operators and safety always comes first.</p>]]></description>
+            <link>http://www.uav-now.co.uk/are-you-fully-licensed-and-insured/index.html</link>
+            <guid isPermaLink="false">55744a09-14e2-40e6-9eb4-34b28a6785f8</guid>
+            <pubDate>Sun, 29 May 2016 22:16:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/some-wintry-snow-and-fog-shots-over-kentish-farm-land/index.html</link>
             <guid isPermaLink="false">f013b426-06e1-4e3a-b5ad-09d14ba28d1b</guid>
             <pubDate>Sat, 28 May 2016 11:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94280a12-bf80-4e7a-8a3e-4f0e9519034f.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/7d73ad4a-1ffd-4584-bc2a-ddd45c77ba8d/index.html</link>
-            <guid isPermaLink="false">7d73ad4a-1ffd-4584-bc2a-ddd45c77ba8d</guid>
-            <pubDate>Sun, 22 May 2016 18:59:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
