@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Harvest time in Kent's glorious sunshine."
-datePublished: '2016-05-29T17:50:41.445Z'
-dateModified: '2016-05-29T17:48:36.934Z'
+datePublished: '2016-05-29T17:55:27.815Z'
+dateModified: '2016-05-29T17:55:26.761Z'
 title: ''
 author: []
 authors: []
