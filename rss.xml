@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 18:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 18:45:42 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Sun, 27 Mar 2016 07:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geophysical survey of Honnington Farm - SHAAS]]></title>
+            <description><![CDATA[<article><h1>Geophysical survey of Honnington Farm - SHAAS</h1><p>This is a video we produced for S</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e41f980de599168f04152e88f927a6a4f46e4f78.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Ng9JhDYzCLQ</link>
+            <guid isPermaLink="false">21865749-a399-4799-b420-61448e99abe5</guid>
+            <pubDate>Sun, 29 May 2016 18:45:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/equipment/index.html</link>
             <guid isPermaLink="false">29f41908-dec8-4a6f-8f40-02a14bebeede</guid>
             <pubDate>Sat, 19 Mar 2016 10:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAQ]]></title>
-            <description><![CDATA[<p>Yes.  We are approved and have a Permission For Aerial Work (PFAW) from the Civil Aviation Authority (CAA), who are the governing body for the UK.  We are also fully insured with £5m public liability cover.  Our pilots are experienced operators and safety always comes first.</p>]]></description>
-            <link>http://www.uav-now.co.uk/are-you-fully-licensed-and-insured/index.html</link>
-            <guid isPermaLink="false">55744a09-14e2-40e6-9eb4-34b28a6785f8</guid>
-            <pubDate>Sat, 19 Mar 2016 09:57:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
