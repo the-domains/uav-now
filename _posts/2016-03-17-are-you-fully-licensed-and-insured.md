@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Yes. We are approved and have a Permission For Aerial Work (PFAW) from the Civil Aviation Authority (CAA), who are the governing body for the UK. We are also fully insured with £5m public liability cover. Our pilots are experienced operators and safety always comes first.'
-datePublished: '2016-05-29T22:16:46.950Z'
-dateModified: '2016-05-29T22:16:25.679Z'
+datePublished: '2016-05-30T07:51:46.476Z'
+dateModified: '2016-05-29T22:17:25.060Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-are-you-fully-licensed-and-insured.md
@@ -35,7 +35,6 @@ The weather is our nemesis. Unfortunately we cannot fly in rain but who wants wa
 
 # How far and how high can you fly?
 
-Our current PFAW allows to fly to a maximum altitude of 400ft (120m). This can be extended but requires and exception by the CAA based on the location and other factors (400ft is pretty high). It can be done but needs advanced notice and planning. We can fly to a maximum distance of 500m away, giving as 1km radius. We are required to keep the aircraft in visual line of sight at all times.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f978155e-03f9-4cb0-9531-fa50b8486be1.jpg)
+Our current PFAW allows to fly to a maximum altitude of 400ft (120m). This can be extended but requires and exception by the CAA based on the location and other factors (400ft is pretty high). It can be done but needs advanced notice and planning. We can fly to a maximum distance of 500m away, giving as 1km radius. We are required to keep the aircraft in visual line of sight at all times. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f978155e-03f9-4cb0-9531-fa50b8486be1.jpg)
 
 [0]: http://www.uav-now.co.uk/contact-us/
