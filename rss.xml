@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 10:54:28 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 10:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/351ad1f7-eb07-4404-932a-0b432ece8030.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/some-aerial-photos-we-provided-before-extensive-renovations/index.html</link>
+            <guid isPermaLink="false">f024ea76-b2df-4798-8677-8629104584c2</guid>
+            <pubDate>Fri, 19 Aug 2016 10:54:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In the air]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/some-stunning-scenery-from-a-viewpoint-at-pennywell-farm-in/index.html</link>
             <guid isPermaLink="false">c42cd303-03e3-4801-8e8c-5fc0a03ca74a</guid>
             <pubDate>Sat, 18 Jun 2016 11:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/719d78f7-0bcb-41fe-b916-f5950fd8db3d.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/dartmouth-harbour-and-the-harbour-mouth-taken-from-a-boat-th/index.html</link>
-            <guid isPermaLink="false">4435f808-1e61-4d42-a4da-16145f6664bb</guid>
-            <pubDate>Sat, 18 Jun 2016 10:01:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
