@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 10:50:23 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 10:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farming Seasons]]></title>
+            <description><![CDATA[<article><h1>Farming Seasons</h1><p>Seasonal view of the orchard we regularly fly over for practice. Snow, fog and a summer evening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6139a43bed7c31ab7eee2e58fff86b0828dca3df.jpg"></article>]]></description>
+            <link>https://vimeo.com/153701716</link>
+            <guid isPermaLink="false">0743f6a0-d8fd-4de6-ba2b-d89d6e0c1ff3</guid>
+            <pubDate>Fri, 19 Aug 2016 10:50:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/a-rather-grey-morning-up-in-dartmoor-national-park-in-devon/index.html</link>
             <guid isPermaLink="false">cacfb228-fe2a-468f-8573-2b9f63000fda</guid>
             <pubDate>Sat, 18 Jun 2016 09:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c974961-3909-4a7a-b7c2-77547e0c716f.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/a-nice-sunny-day-at-bantham-beach-and-burgh-island-in-south/index.html</link>
-            <guid isPermaLink="false">13d6580a-5ead-4000-9f3a-af902e8c4ecc</guid>
-            <pubDate>Sat, 18 Jun 2016 09:25:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
