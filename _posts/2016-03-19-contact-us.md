@@ -1,32 +1,32 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: "Email:\_info@uav-now.co.uk"
-datePublished: '2016-04-04T17:41:53.266Z'
-dateModified: '2016-03-20T22:35:52.058Z'
-title: Contact Us
-author: []
+datePublished: '2016-08-19T10:53:19.439Z'
 sourcePath: _posts/2016-03-19-contact-us.md
-published: true
+inFeed: false
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-19T10:53:18.616Z'
+title: Contact Us
+publisher: {}
+description: >-
+  Based in Tonbridge, Kent we cover the whole of Kent and Sussex. Please contact
+  us for more information.
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: contact-us/index.html
 _type: WebPage
 
 ---
+# Contact Us
+
+Based in Tonbridge, Kent we cover the whole of **Kent and Sussex**. Please contact us for more information.
+
 **Email: **info@uav-now.co.uk
 
 **Telephone: **07793 201546
-
-Based in Tonbridge, Kent we cover the whole of **Kent and Sussex**.  Please contact us for more information.
 
 Follow us on our Social Media sites:
 
