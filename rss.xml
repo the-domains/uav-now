@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 12:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 12:23:48 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efc331a4e9acc57616a298664aa85cb473df5e49.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/some-shots-taken-during-an-archaeological-video-we-were-film/index.html</link>
+            <guid isPermaLink="false">846fe395-c277-4d5e-8632-5ce067066f27</guid>
+            <pubDate>Fri, 19 Aug 2016 12:23:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/7d73ad4a-1ffd-4584-bc2a-ddd45c77ba8d/index.html</link>
             <guid isPermaLink="false">7d73ad4a-1ffd-4584-bc2a-ddd45c77ba8d</guid>
             <pubDate>Fri, 19 Aug 2016 10:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d8aa45c-5b9b-4a27-aec1-63157f1e57cb.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/early-morning-sunrise-shots-at-beachy-head-eastbourne-east/index.html</link>
-            <guid isPermaLink="false">79c14629-0d3d-48cb-be3c-938d27886fa1</guid>
-            <pubDate>Mon, 27 Jun 2016 19:48:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
