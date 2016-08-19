@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 12:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 12:39:52 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1fd2d3241f13cb55a509f169eb75afdae25879.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/some-early-morning-shots-and-a-few-panoramas-of-tonbridge/index.html</link>
+            <guid isPermaLink="false">59b71314-1422-482f-912c-cf7f4fa929de</guid>
+            <pubDate>Fri, 19 Aug 2016 12:39:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/some-aerial-photos-we-provided-before-extensive-renovations/index.html</link>
             <guid isPermaLink="false">f024ea76-b2df-4798-8677-8629104584c2</guid>
             <pubDate>Fri, 19 Aug 2016 10:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In the air]]></title>
-            <description><![CDATA[<article><h1>In the air</h1><h2>On the ground</h2><p>We use the 3D Robotics Solo Drone as our main aerial platform. It is lightweight, versatile and the 'smartest' drone on the market.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5711e0c1-ac60-4bb7-b3e5-1c14cbe5ca13.jpg"></article>]]></description>
-            <link>http://www.uav-now.co.uk/equipment/index.html</link>
-            <guid isPermaLink="false">29f41908-dec8-4a6f-8f40-02a14bebeede</guid>
-            <pubDate>Fri, 19 Aug 2016 10:52:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
