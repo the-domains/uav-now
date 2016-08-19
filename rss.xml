@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 11:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 11:10:03 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1966e8fbba672f9b85b48642256f20f610e70549.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/harvest-time-kent-combining-the-wheat-fields/index.html</link>
+            <guid isPermaLink="false">36fcfb64-4c57-4081-b310-ec3e0e206872</guid>
+            <pubDate>Fri, 19 Aug 2016 11:10:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/some-fantastic-shots-of-ayrmer-cove-on-the-south-devon-coast/index.html</link>
             <guid isPermaLink="false">13c6cbdc-5957-4792-aefc-7b79d1bf292f</guid>
             <pubDate>Sat, 18 Jun 2016 12:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe20fd6-894b-4309-9897-252e870086e5.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/some-fantastic-shots-of-ayrmer-cove-on-the-south-devon-coast/index.html</link>
-            <guid isPermaLink="false">640395a3-bad7-4e95-9a76-bd2c86a409c0</guid>
-            <pubDate>Sat, 18 Jun 2016 12:22:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
