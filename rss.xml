@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 12:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 13:05:44 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c974961-3909-4a7a-b7c2-77547e0c716f.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/a-nice-sunny-day-at-bantham-beach-and-burgh-island-in-south/index.html</link>
+            <guid isPermaLink="false">13d6580a-5ead-4000-9f3a-af902e8c4ecc</guid>
+            <pubDate>Fri, 19 Aug 2016 13:05:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/harvest-time-in-kents-glorious-sunshine/index.html</link>
             <guid isPermaLink="false">26f18708-306f-4ef6-8a94-d577e95abc35</guid>
             <pubDate>Fri, 19 Aug 2016 11:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f85af6a668f30332b4bc02df0bdf3626dce9e1c8.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/some-wintry-snow-and-fog-shots-over-kentish-farm-land/index.html</link>
-            <guid isPermaLink="false">f013b426-06e1-4e3a-b5ad-09d14ba28d1b</guid>
-            <pubDate>Fri, 19 Aug 2016 11:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
