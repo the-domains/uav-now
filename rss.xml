@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 12:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 12:36:27 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7398b403ca72b626ccfefc593a255db6f66cc63b.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/having-some-fun-trying-out-a-new-camera-lens-in-our-favourit/index.html</link>
+            <guid isPermaLink="false">4bf9cc01-33a8-4cc3-9e21-30a4619c29d2</guid>
+            <pubDate>Fri, 19 Aug 2016 12:36:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geophysical survey of Honnington Farm - SHAAS]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/equipment/index.html</link>
             <guid isPermaLink="false">29f41908-dec8-4a6f-8f40-02a14bebeede</guid>
             <pubDate>Fri, 19 Aug 2016 10:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farming Seasons]]></title>
-            <description><![CDATA[<article><h1>Farming Seasons</h1><p>Seasonal view of the orchard we regularly fly over for practice. Snow, fog and a summer evening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6139a43bed7c31ab7eee2e58fff86b0828dca3df.jpg"></article>]]></description>
-            <link>https://vimeo.com/153701716</link>
-            <guid isPermaLink="false">0743f6a0-d8fd-4de6-ba2b-d89d6e0c1ff3</guid>
-            <pubDate>Fri, 19 Aug 2016 10:50:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
