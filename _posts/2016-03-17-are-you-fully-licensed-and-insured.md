@@ -1,17 +1,20 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Yes. We are approved and have a Permission For Aerial Work (PFAW) from the Civil Aviation Authority (CAA), who are the governing body for the UK. We are also fully insured with £5m public liability cover. Our pilots are experienced operators and safety always comes first.'
-datePublished: '2016-05-30T08:18:54.327Z'
-dateModified: '2016-05-30T08:18:51.421Z'
-title: ''
-author: []
+datePublished: '2016-08-19T10:51:30.290Z'
 sourcePath: _posts/2016-03-17-are-you-fully-licensed-and-insured.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-19T10:51:29.851Z'
+title: FAQ
+publisher: {}
+description: >-
+  Please see our FAQs for answers to your questions. If you still have question
+  then please don’t hesitate to Contact Us.
+inLanguage: null
+inNav: true
 starred: false
 url: are-you-fully-licensed-and-insured/index.html
 _type: WebPage
@@ -19,7 +22,7 @@ _type: WebPage
 ---
 # FAQ
 
-Please see our FAQs for answers to your questions. If you still have question then please dont hesitate to **[Contact Us][0]**.
+Please see our FAQs for answers to your questions. If you still have question then please don't hesitate to **[Contact Us][0]**.
 
 # Are you fully licensed and insured?
 
@@ -35,6 +38,7 @@ The weather is our nemesis. Unfortunately we cannot fly in rain but who wants wa
 
 # How far and how high can you fly?
 
-Our current PFAW allows to fly to a maximum altitude of 400ft (120m). This can be extended but requires and exception by the CAA based on the location and other factors (400ft is pretty high). It can be done but needs advanced notice and planning. We can fly to a maximum distance of 500m away, giving as 1km radius. We are required to keep the aircraft in visual line of sight at all times. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f978155e-03f9-4cb0-9531-fa50b8486be1.jpg)
+Our current PFAW allows to fly to a maximum altitude of 400ft (120m). This can be extended but requires and exception by the CAA based on the location and other factors (400ft is pretty high). It can be done but needs advanced notice and planning. We can fly to a maximum distance of 500m away, giving as 1km radius. We are required to keep the aircraft in visual line of sight at all times.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ac7dbd149373b1ab282796a719d7ad567050e5f.jpg)
 
 [0]: http://www.uav-now.co.uk/contact-us/
