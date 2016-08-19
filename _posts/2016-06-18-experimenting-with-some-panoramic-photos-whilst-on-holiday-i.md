@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T12:58:24.437Z'
+datePublished: '2016-08-19T12:58:53.828Z'
 sourcePath: >-
   _posts/2016-06-18-experimenting-with-some-panoramic-photos-whilst-on-holiday-i.md
 inFeed: true
@@ -7,7 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-19T12:58:16.766Z'
+via: {}
+dateModified: '2016-08-19T12:58:53.301Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +16,6 @@ description: >-
   These were taken at Bantham Beach and overlooking the River Avon.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: experimenting-with-some-panoramic-photos-whilst-on-holiday-i/index.html
 _type: Article
