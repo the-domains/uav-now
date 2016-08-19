@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:11:49.104Z'
+datePublished: '2016-08-19T12:03:58.322Z'
 sourcePath: _posts/2016-05-29-still-summers-morning-at-bewl-water-during-sunrise.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T11:11:44.190Z'
+dateModified: '2016-08-19T11:11:50.781Z'
 title: ''
 publisher: {}
 description: Still summers morning at Bewl Water during sunrise.
