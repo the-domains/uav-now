@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-19T11:10:00.298Z'
+datePublished: '2016-08-24T05:48:28.733Z'
 sourcePath: _posts/2016-05-29-harvest-time-kent-combining-the-wheat-fields.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-19T11:09:59.477Z'
+via: {}
+dateModified: '2016-08-24T05:48:28.195Z'
 title: ''
 publisher: {}
 description: Harvest time Kent. Combining the wheat fields.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: harvest-time-kent-combining-the-wheat-fields/index.html
 _type: Article
