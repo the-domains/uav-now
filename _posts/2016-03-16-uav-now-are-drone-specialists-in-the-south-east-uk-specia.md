@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T06:55:19.400Z'
+datePublished: '2016-08-24T06:55:56.388Z'
 sourcePath: _posts/2016-03-16-uav-now-are-drone-specialists-in-the-south-east-uk-specia.md
 inFeed: true
 isBasedOnUrl: www.uav-now.co.uk
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T06:26:22.080Z'
+dateModified: '2016-08-24T06:55:47.328Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,6 +23,6 @@ starred: true
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2167dfb2ecd922eb1886111498a9a338a4b60be.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dee31d71-3f28-45d7-96a8-092a99fab81a.jpg)
 
 **UAV-Now** are drone specialists in the South East, UK. Specialising in Aerial Photography, Cinematography , Surveys, Mapping, Surveillance. We are fully certified with the Civil Aviation Authority (CAA) and have a current Permission for Aerial Work (PFAW) issued. We are also Fully Insured and pride ourselves on planning and safety.
