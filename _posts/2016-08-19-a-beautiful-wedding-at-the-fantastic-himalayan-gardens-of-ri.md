@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T06:04:51.126Z'
+datePublished: '2016-08-24T06:04:57.895Z'
 sourcePath: >-
   _posts/2016-08-19-a-beautiful-wedding-at-the-fantastic-himalayan-gardens-of-ri.md
 author: []
 via: {}
-dateModified: '2016-08-24T06:04:26.995Z'
+dateModified: '2016-08-24T06:04:53.600Z'
 title: ''
 publisher: {}
 description: >-
