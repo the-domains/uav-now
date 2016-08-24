@@ -1,17 +1,17 @@
 ---
+datePublished: '2016-08-24T06:04:51.126Z'
+sourcePath: >-
+  _posts/2016-08-19-a-beautiful-wedding-at-the-fantastic-himalayan-gardens-of-ri.md
+author: []
+via: {}
+dateModified: '2016-08-24T06:04:26.995Z'
+title: ''
+publisher: {}
 description: >-
   A beautiful wedding at the fantastic Himalayan Gardens of Riverhill House in
   Sevenoaks. Drinks in the walled garden and the reception to follow in a
   marquee on the lawn in front of the house. Panoramic views of the the Weald.
-dateModified: '2016-08-19T10:33:35.623Z'
-datePublished: '2016-08-19T10:34:14.864Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-19-a-beautiful-wedding-at-the-fantastic-himalayan-gardens-of-ri.md
 inFeed: true
 hasPage: false
 inNav: false
