@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T12:35:38.577Z'
+datePublished: '2016-08-24T05:50:03.393Z'
 sourcePath: _posts/2016-05-29-geophysical-survey-of-honnington-farm-shaas.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Ng9JhDYzCLQ'
@@ -11,7 +11,8 @@ author:
   - name: Southborough Archaeology
     url: 'https://www.youtube.com/channel/UC9uYg4eLonYo5tG6Lslluhg'
     avatar: {}
-dateModified: '2016-08-19T12:35:38.157Z'
+via: {}
+dateModified: '2016-08-24T05:50:02.953Z'
 title: Geophysical survey of Honnington Farm - SHAAS
 app_links: []
 publisher:
@@ -25,7 +26,6 @@ description: >-
   entice new members
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: VideoObject
