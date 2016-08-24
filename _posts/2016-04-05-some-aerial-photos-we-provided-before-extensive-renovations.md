@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:54:25.366Z'
+datePublished: '2016-08-24T05:44:40.866Z'
 sourcePath: >-
   _posts/2016-04-05-some-aerial-photos-we-provided-before-extensive-renovations.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T10:54:24.572Z'
+dateModified: '2016-08-24T05:44:40.167Z'
 title: ''
 publisher: {}
 description: >-
