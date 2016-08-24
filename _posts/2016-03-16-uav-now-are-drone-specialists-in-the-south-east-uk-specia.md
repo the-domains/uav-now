@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T06:55:56.388Z'
+datePublished: '2016-08-24T06:56:04.211Z'
 sourcePath: _posts/2016-03-16-uav-now-are-drone-specialists-in-the-south-east-uk-specia.md
 inFeed: true
 isBasedOnUrl: www.uav-now.co.uk
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T06:55:47.328Z'
+dateModified: '2016-08-24T06:56:03.592Z'
 title: ''
 publisher: {}
 description: >-
