@@ -1,20 +1,4 @@
-name: UAV-Now
-favicon: null
-layout_spectrum: 0.33353
 typography_spectrum: 0.48164
-title: UAV-Now    Aerial Photography Specialists
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-56282977-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.25
   saturation: 0.5625
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.33353
+analytics:
+  google: UA-56282977-1
+  facebook: null
+  twitter: null
+name: UAV-Now
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Equipment
+    id: 29f41908-dec8-4a6f-8f40-02a14bebeede
+    type: content
+favicon: null
+title: UAV-Now    Aerial Photography Specialists
 purpose: []
