@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T05:54:49.350Z'
+datePublished: '2016-08-24T05:54:51.573Z'
 sourcePath: >-
   _posts/2016-06-18-a-rather-grey-morning-up-in-dartmoor-national-park-in-devon.md
 inFeed: true
@@ -7,7 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-24T05:54:44.032Z'
+via: {}
+dateModified: '2016-08-24T05:54:50.946Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +16,6 @@ description: >-
   were taken on top of the granite rock formation known as Bel Tor.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: a-rather-grey-morning-up-in-dartmoor-national-park-in-devon/index.html
 _type: Article
