@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:01:30.050Z'
+datePublished: '2016-08-24T05:47:12.634Z'
 sourcePath: _posts/2016-05-28-some-wintry-snow-and-fog-shots-over-kentish-farm-land.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T11:01:29.547Z'
+dateModified: '2016-08-24T05:47:12.121Z'
 title: ''
 publisher: {}
 description: Some wintry snow and fog shots over Kentish farm land.
