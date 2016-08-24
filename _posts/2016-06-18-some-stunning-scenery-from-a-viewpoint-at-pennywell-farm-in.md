@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T05:56:06.779Z'
+datePublished: '2016-08-24T05:56:11.256Z'
 sourcePath: >-
   _posts/2016-06-18-some-stunning-scenery-from-a-viewpoint-at-pennywell-farm-in.md
 inFeed: true
@@ -7,7 +7,8 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-24T05:56:02.146Z'
+via: {}
+dateModified: '2016-08-24T05:56:10.876Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +16,6 @@ description: >-
   over looks Dartmoor and South Hams.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: some-stunning-scenery-from-a-viewpoint-at-pennywell-farm-in/index.html
 _type: Article
