@@ -28,6 +28,9 @@ navigation:
   - name: Equipment
     id: 29f41908-dec8-4a6f-8f40-02a14bebeede
     type: content
+  - name: FAQ
+    id: 55744a09-14e2-40e6-9eb4-34b28a6785f8
+    type: content
 favicon: null
 title: UAV-Now    Aerial Photography Specialists
 purpose: []
