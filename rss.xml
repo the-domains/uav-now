@@ -4,7 +4,7 @@
         <description><![CDATA[UAV-Now    Aerial Photography Specialists]]></description>
         <link>http://www.uav-now.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 05:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 05:59:39 GMT</lastBuildDate>
         <atom:link href="http://www.uav-now.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>www.uav-now.co.uk</link>
             <guid isPermaLink="false">d6a975ae-ddc7-4808-98f7-ba0a5902c24a</guid>
             <pubDate>Fri, 19 Aug 2016 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0f4b784-c118-4def-b1cf-9a0a3bdfb51d.jpg">]]></description>
+            <link>http://www.uav-now.co.uk/here-are-few-shots-taken-from-the-ground-at-mothecombe-beach/index.html</link>
+            <guid isPermaLink="false">a80108d1-8328-4ed0-ae1f-cdc93bdacb39</guid>
+            <pubDate>Wed, 24 Aug 2016 05:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.uav-now.co.uk/still-summers-morning-at-bewl-water-during-sunrise/index.html</link>
             <guid isPermaLink="false">83e102ac-8cc9-4ad7-b412-2f8e2718b11f</guid>
             <pubDate>Wed, 24 Aug 2016 05:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1966e8fbba672f9b85b48642256f20f610e70549.jpg">]]></description>
-            <link>http://www.uav-now.co.uk/harvest-time-kent-combining-the-wheat-fields/index.html</link>
-            <guid isPermaLink="false">36fcfb64-4c57-4081-b310-ec3e0e206872</guid>
-            <pubDate>Wed, 24 Aug 2016 05:48:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
