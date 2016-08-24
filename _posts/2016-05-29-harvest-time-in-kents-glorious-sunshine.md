@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:07:10.994Z'
+datePublished: '2016-08-24T05:47:46.198Z'
 sourcePath: _posts/2016-05-29-harvest-time-in-kents-glorious-sunshine.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T11:07:09.955Z'
+dateModified: '2016-08-24T05:47:45.787Z'
 title: ''
 publisher: {}
 description: Wheat fields and orchards in Kent's glorious sunshine.
